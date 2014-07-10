@@ -1,0 +1,7 @@
+"condemned_fields"
+{
+	"base"				"gframework"
+	"title"				"Condemned Fields"
+	"menusystem"		"1"
+	"maps"				""
+}
